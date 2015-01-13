@@ -14,9 +14,8 @@ gem_group :development do
   gem 'guard-bundler', require: false
   gem 'guard-livereload', require: false
   gem 'guard-rspec', require: false
-  gem 'jazz_hands', github: 'nixme/jazz_hands', branch: 'bring-your-own-debugger'
+  gem 'jazz_fingers'
   gem 'letter_opener'
-  gem 'pry-byebug'
   gem 'quiet_assets'
   gem 'spring-commands-rspec'
   gem 'thin'
